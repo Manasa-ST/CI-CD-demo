@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "start": "node index.js",
-  "test": "jest"
-},
+    "start": "node index.js",
+    "test": "jest"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "jest": "^30.5.2",
-    "superset": "^3.0.4"
-    
+    "superset": "^3.0.4",
+    "supertest": "^7.3.1"
   }
 }
